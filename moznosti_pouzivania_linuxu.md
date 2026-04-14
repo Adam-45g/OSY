@@ -8,7 +8,6 @@
 - Disk: HDD 233 GB + HDD 466 GB  
 - Internet: maximálne 5 Mbps  
 
----
 # 1. Dual boot
 
 ## Výhody
@@ -24,8 +23,6 @@
 
 ## Vhodnosť
 Veľmi vysoká. Ide o najlepší spôsob použitia Linuxu na tomto počítači z hľadiska výkonu.
-
----
 
 # 2. WSL
 
@@ -44,8 +41,6 @@ Veľmi vysoká. Ide o najlepší spôsob použitia Linuxu na tomto počítači z
 ## Vhodnosť
 Vysoká. Ide o najlepší kompromis medzi jednoduchosťou a funkčnosťou.
 
----
-
 # 3. Docker (cez WSL2)
 
 ## Výhody
@@ -63,9 +58,7 @@ Vysoká. Ide o najlepší kompromis medzi jednoduchosťou a funkčnosťou.
 ## Vhodnosť
 Stredná. Vhodné hlavne pre vývojárske účely.
 
----
-
-# 4. Live USB Linux
+# 4. Bootable USB
 
 ## Výhody
 - žiadne zmeny v systéme
@@ -80,8 +73,6 @@ Stredná. Vhodné hlavne pre vývojárske účely.
 
 ## Vhodnosť
 Stredná až nízka. Vhodné na testovanie, nie na bežnú prácu.
-
----
 
 # 5. VirtualBox
 
@@ -99,8 +90,6 @@ Stredná až nízka. Vhodné na testovanie, nie na bežnú prácu.
 ## Vhodnosť
 Nízka. Nevhodné pre dlhodobé používanie na tomto hardvérii.
 
----
-
 # 6. Linux v prehliadači
 
 ## Výhody
@@ -117,8 +106,6 @@ Nízka. Nevhodné pre dlhodobé používanie na tomto hardvérii.
 ## Vhodnosť
 Veľmi nízka. Nepoužiteľné na reálnu prácu.
 
----
-
 # Porovnanie riešení
 
 | Riešenie | Výkon | Pohodlie | Použiteľnosť | Vhodnosť |
@@ -129,8 +116,6 @@ Veľmi nízka. Nepoužiteľné na reálnu prácu.
 | Live USB | stredný | vysoké | nízka až stredná | testovanie |
 | VirtualBox | nízky | stredné | nízka | nevhodné |
 | Browser Linux | veľmi nízky | vysoké | veľmi nízka | nepoužiteľné |
-
----
 
 # Závery
 
